@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ushani Saubhagya</h1>
 <h3 align="center">Software Engineering Undergraduate <br> University of Kelaniya</h3>
 
+---
+
 🎓 About Me
 
 💻 Learning the MERN stack and aiming to become a Full-Stack & DevOps-focused developer.<br>
@@ -10,8 +12,6 @@
 🧩 Fun fact: I love debugging and problem-solving!
 
 ---
-
-## 🛠 Skills & Technologies
 
 ## 🛠 Skills & Technologies
 
