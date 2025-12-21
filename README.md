@@ -3,35 +3,23 @@
 
 🎓 About Me
 
-💻 Learning the MERN stack and aiming to become a Full-Stack & DevOps-focused developer.
-☁️ Currently learning Docker, cloud fundamentals, and backend development.
-🤝 Interested in collaborating on open-source and student projects.
-🚀 Goal: Build practical projects and grow as a software engineer.
+💻 Learning the MERN stack and aiming to become a Full-Stack & DevOps-focused developer.<br>
+☁️ Currently learning Docker, cloud fundamentals and backend development.<br>
+🤝 Interested in collaborating on open-source and student projects.<br>
+🚀 Goal: Build practical projects and grow as a software engineer.<br>
 🧩 Fun fact: I love debugging and problem-solving!
 
 ---
 
 ## 🛠 Skills & Technologies
 
-### 🖥 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+## 🛠 Skills & Technologies
 
-### ⚙ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,php" />
-</p>
+| 🖥 Frontend | ⚙ Backend | 🧰 Other Development Tools |
+|---|---|---|
+| ![](https://skillicons.dev/icons?i=html,css,js,react) | ![](https://skillicons.dev/icons?i=nodejs,express,java,php) | ![](https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github,docker,aws,vscode,figma,canva) |
 
-### 🧰 Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,figma,canva" />
-</p>
 
-### ☁ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" />
-</p>
 
 ---
 
