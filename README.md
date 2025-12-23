@@ -17,7 +17,7 @@
 
 | 🖥 Frontend | ⚙ Backend | 🧰 Other Development Tools |
 |---|---|---|
-| ![](https://skillicons.dev/icons?i=html,css,js,react) | ![](https://skillicons.dev/icons?i=nodejs,express,java,php) | ![](https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github,docker,aws,vscode,figma,canva) |
+| ![](https://skillicons.dev/icons?i=html,css,js,react) | ![](https://skillicons.dev/icons?i=nodejs,express,java,php) | ![](https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github,docker,vscode,figma,canva) |
 
 
 
