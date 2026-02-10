@@ -15,10 +15,9 @@
 
 ## 🛠 Skills & Technologies
 
-| 🖥 Frontend | ⚙ Backend | 🧰 Other Development Tools |
-|---|---|---|
-| ![](https://skillicons.dev/icons?i=html,css,js,react) | ![](https://skillicons.dev/icons?i=nodejs,express,java,php) | ![](https://skillicons.dev/icons?i=mongodb,mysql,postman,bootstrap,git,github,docker,aws,vscode,figma,canva) |
-
+| 🖥 Frontend | ⚙ Backend | 🧰 Databases & Tools |
+|------------|----------|---------------------|
+| ![](https://skillicons.dev/icons?i=html,css,js,react,bootstrap) | ![](https://skillicons.dev/icons?i=nodejs,express,java,php) | ![](https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github,docker,aws,vscode,figma,canva) |
 
 
 ---
