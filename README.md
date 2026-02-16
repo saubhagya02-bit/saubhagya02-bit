@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ushani Saubhagya</h1>
-<h3 align="center">Software Engineering Undergraduate <br> University of Kelaniya</h3>
+<h3 align="center">Software Engineering Undergraduate<br>University of Kelaniya</h3>
 
 ---
 
-🎓 About Me
+## 🎓 About Me
+💻 Learning the MERN stack and aiming to become a Full-Stack & DevOps-focused developer.  
+☁️ Currently learning Docker, cloud fundamentals and backend development.  
+🤝 Interested in collaborating on open-source and student projects.  
+🚀 Goal: Build practical projects and grow as a software engineer.  
+🧩 Fun fact: I love debugging and problem-solving!  
 
-💻 Learning the MERN stack and aiming to become a Full-Stack & DevOps-focused developer.<br>
-☁️ Currently learning Docker, cloud fundamentals and backend development.<br>
-🤝 Interested in collaborating on open-source and student projects.<br>
-🚀 Goal: Build practical projects and grow as a software engineer.<br>
-🧩 Fun fact: I love debugging and problem-solving!
+---
+
+## 💻 Languages
+![Languages](https://skillicons.dev/icons?i=java,python,c,js,php)
 
 ---
 
@@ -17,21 +21,16 @@
 
 | 🖥 Frontend | ⚙ Backend | 🧰 Databases & Tools |
 |------------|----------|---------------------|
-| ![](https://skillicons.dev/icons?i=html,css,js,react,bootstrap) | ![](https://skillicons.dev/icons?i=nodejs,express,java,spring,php) | ![](https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github,docker,aws,vscode,figma,canva) |
-
+| ![](https://skillicons.dev/icons?i=html,css,js,react,bootstrap) | ![](https://skillicons.dev/icons?i=java,spring,nodejs,express,php) | ![](https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github,docker,aws,vscode,figma,canva) |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saubhagya02-bit&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saubhagya02-bit&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=saubhagya02-bit&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=saubhagya02-bit&theme=tokyonight" />
-</p>
-
 
 ---
 
