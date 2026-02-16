@@ -12,16 +12,11 @@
 
 ---
 
-## 💻 Languages
-![Languages](https://skillicons.dev/icons?i=java,python,c,js,php)
-
----
-
 ## 🛠 Skills & Technologies
 
 | 🖥 Frontend | ⚙ Backend | 🧰 Databases & Tools |
 |------------|----------|---------------------|
-| ![](https://skillicons.dev/icons?i=html,css,js,react,bootstrap) | ![](https://skillicons.dev/icons?i=java,spring,nodejs,express,php) | ![](https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github,docker,aws,vscode,figma,canva) |
+| ![](https://skillicons.dev/icons?i=html,css,js,react,bootstrap) | ![](https://skillicons.dev/icons?i=java,spring,nodejs,express,pyhton,php) | ![](https://skillicons.dev/icons?i=mongodb,mysql,postman,git,github,docker,aws,vscode,figma,canva) |
 
 ---
 
