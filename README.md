@@ -27,6 +27,10 @@
   <img src="https://streak-stats.demolab.com?user=saubhagya02-bit&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saubhagya02-bit&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" width="900"/>
+</p>
+
 ---
 
 ⭐ **Feel free to explore my repositories and contribute!**
