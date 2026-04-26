@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea44f&height=200&section=header&text=Ushani%20Saubhagya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2EA44F&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Full+Stack+Developer" />
 </div>
 
 <div align="center">
