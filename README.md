@@ -39,7 +39,7 @@ I am a Software Engineering Undergraduate studying at the University of Kelaniya
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saubhagya02-bit&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" width="900"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saubhagya02-bit&bg_color=0d1117&color=2ea44f&line=2ea44f&point=3fb950&area=true&area_color=2ea44f&hide_border=true" width="900"/>
 </p>
 
 ---
