@@ -44,6 +44,30 @@ I am a Software Engineering Undergraduate studying at the University of Kelaniya
 
 ---
 
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:saubhagyaushani03@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/saubhagya02-bit">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ushani-saubhagya-5216992a4/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://medium.com/@saubhagyaushani03">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea44f&height=100&section=footer" width="100%"/>
 </div>
