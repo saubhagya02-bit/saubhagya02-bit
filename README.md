@@ -11,11 +11,19 @@ I am a Software Engineering Undergraduate studying at the University of Kelaniya
 ---
 
 ## 🎓 About Me
-💻 Learning the MERN stack and aiming to become a Full-Stack & DevOps-focused developer.  
-☁️ Currently learning Docker, cloud fundamentals and backend development.  
-🤝 Interested in collaborating on open-source and student projects.  
-🚀 Goal: Build practical projects and grow as a software engineer.  
-🧩 Fun fact: I love debugging and problem-solving!  
+
+💻 Software Engineering undergraduate passionate about **Full-Stack Development & DevOps**.
+
+⚛️ Building modern web applications with **React, JavaScript/TypeScript, Node.js, Express, and Spring Boot**.
+
+🐳 Hands-on with **Docker, CI/CD, GitHub Actions, and cloud technologies**, with a growing interest in AWS and DevOps practices.
+
+🚀 Enjoy turning ideas into practical, scalable applications and continuously improving my development skills.
+
+🤝 Open to collaborating on **open-source, software engineering, and student projects**.
+
+🧩 Fun fact: I genuinely enjoy **debugging, problem-solving, and figuring out why things break!**
+ 
 
 ---
 
