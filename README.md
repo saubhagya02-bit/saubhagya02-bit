@@ -38,20 +38,15 @@ I am a Software Engineering Undergraduate studying at the University of Kelaniya
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saubhagya02-bit&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=saubhagya02-bit&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="right">
-  <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="300" alt="Coding GIF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saubhagya02-bit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saubhagya02-bit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saubhagya02-bit&bg_color=0d1117&color=2ea44f&line=2ea44f&point=3fb950&area=true&area_color=2ea44f&hide_border=true" width="900"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saubhagya02-bit&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
-
 ## 🌐 Connect With Me
 
 <div align="center">
