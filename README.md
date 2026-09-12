@@ -60,15 +60,6 @@ I am a Software Engineering Undergraduate studying at the University of Kelaniya
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=saubhagya02-bit&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
-
 ## 🌐 Connect With Me
 
 <div align="center">
