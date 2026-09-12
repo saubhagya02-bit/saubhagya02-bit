@@ -39,12 +39,36 @@ I am a Software Engineering Undergraduate studying at the University of Kelaniya
 
 <p align="center">
   <img
+    src="https://github-readme-stats.vercel.app/api?username=saubhagya02-bit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=saubhagya02-bit&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saubhagya02-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most Used Languages"
+  />
+</p>
+
 ---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=saubhagya02-bit&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+
 ## 🌐 Connect With Me
 
 <div align="center">
