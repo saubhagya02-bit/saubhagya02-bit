@@ -29,7 +29,9 @@ I am a Software Engineering Undergraduate studying at the University of Kelaniya
 
 ## 🛠 Skills & Technologies
 
-![Tech Stack](./assets/tech-stack-banner.svg)
+| 🖥 Frontend | ⚙ Backend | 🧰 Databases & Tools |
+|------------|----------|---------------------|
+| ![](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap) | ![](https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs,python,php) | ![](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,postman,git,github,docker,linux,aws,vscode,figma,canva) |
 
 ---
 
