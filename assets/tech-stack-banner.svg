@@ -1,0 +1,155 @@
+<svg viewBox="0 0 1200 640" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4NjUxNWE5OS0wNWNiLTQwZWEtOTcyMS04NGFlN2YyZmMzM2IAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaMPdbuwcYs1xSwSliDmY2+IAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpjMjJlMWVhYS1hZTBhLTRkOTQtYWUxOS0yNjA1YTZkZGY1NzlscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoUhWYPCb+kV5n5O91nvXJ/AAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggHoswoNlIC5EjWAkI4HthwueV9LLNwCovMiIRGdLSaEKkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaFpxjQtmkzRLjRC2bFsI0vwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBQx/SfqjtlFICjrcoEcAGSCmNN2WrD3vX1Mc8FEE+R4mRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBivZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjg2NTE1YTk5LTA1Y2ItNDBlYS05NzIxLTg0YWU3ZjJmYzMzYi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjk4MDNlMDkxLWI4NzEtNDJlMC05M2EyLTMzYmEzZmNjYWIzYnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAeizCg2UgLkSNYCQjge2HC55X0ss3AKi8yIhEZ0tJoQqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggLxyfA95WtgNVepMoD1tXseaZEC5xT9m2hbFBChfEh+KiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg8A1YA2VTw/GLOxUPt2Z0jrZEhgR5TxUS9C9FhO6FwNV0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQMI1akYT51doJsIjonDRIF+JD+ce3HpBCyAPIAVR7JRhqH33jXuwR2xlaGAcazau9jW9bGz2v/mInrmZsdNOtFc=</c2pa:manifest></metadata>
+<defs>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#0d1a14" stroke-width="1"/>
+  </pattern>
+  <linearGradient id="barGlow" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#22ff88" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#22ff88" stop-opacity="1"/>
+    <stop offset="100%" stop-color="#22ff88" stop-opacity="0"/>
+  </linearGradient>
+  <style>
+    .badge { fill: none; stroke: #0f5c3a; stroke-width: 1.2; }
+    .badge-text { fill: #22ff88; font-size: 12px; font-weight: 700; text-anchor: middle; letter-spacing: 0.5px; }
+    .panel-border { fill: #050a08; stroke: #1a3d2c; stroke-width: 1.2; }
+    .num { fill: #22ff88; font-size: 12px; font-weight: 700; letter-spacing: 3px; }
+    .title { fill: #c8ffe4; font-size: 27px; font-weight: 800; letter-spacing: 1px; }
+    .subtitle { fill: #5a8a72; font-size: 11px; letter-spacing: 1px; }
+    .section-label { fill: #22ff88; font-size: 10px; font-weight: 700; letter-spacing: 2px; }
+    .list-text { fill: #9fe8c4; font-size: 12.5px; }
+    .status-label { fill: #22ff88; font-size: 10px; font-weight: 700; letter-spacing: 2px; }
+    .status-text { fill: #c8ffe4; font-size: 14px; font-weight: 700; letter-spacing: 0.5px; }
+    .header-title { fill: #22ff88; font-size: 13px; font-weight: 700; letter-spacing: 5px; text-anchor: middle; }
+    .footer-text { fill: #5a8a72; font-size: 10.5px; letter-spacing: 2px; text-anchor: middle; }
+  </style>
+</defs>
+
+<rect width="1200" height="640" fill="#050a08"/>
+<rect width="1200" height="640" fill="url(#grid)"/>
+
+<rect x="40" y="34" width="1120" height="2" fill="url(#barGlow)"/>
+<text x="600.0" y="24" class="header-title">FULL-STACK ENGINEERING // SKILLS &amp; TECHNOLOGIES</text>
+
+<rect x="40.0" y="92" width="357.3" height="500" rx="10" class="panel-border"/>
+<rect x="40.0" y="92" width="357.3" height="3" fill="#22ff88" opacity="0.85"/>
+<text x="64.0" y="126" class="num">01 / FRONTEND</text>
+<text x="64.0" y="156" class="title">FRONTEND</text>
+<text x="64.0" y="176" class="subtitle">Interface . Components . Interaction</text>
+<line x1="64.0" y1="192" x2="373.3" y2="192" stroke="#1a3d2c" stroke-width="1"/>
+<rect x="64.0" y="220.0" width="96.4" height="40" rx="8" class="badge"/>
+<text x="112.2" y="244.0" class="badge-text">HTML</text>
+<rect x="170.4" y="220.0" width="96.4" height="40" rx="8" class="badge"/>
+<text x="218.7" y="244.0" class="badge-text">CSS</text>
+<rect x="276.9" y="220.0" width="96.4" height="40" rx="8" class="badge"/>
+<text x="325.1" y="244.0" class="badge-text">JS</text>
+<rect x="64.0" y="272.0" width="96.4" height="40" rx="8" class="badge"/>
+<text x="112.2" y="296.0" class="badge-text">TS</text>
+<rect x="170.4" y="272.0" width="96.4" height="40" rx="8" class="badge"/>
+<text x="218.7" y="296.0" class="badge-text">RE</text>
+<rect x="276.9" y="272.0" width="96.4" height="40" rx="8" class="badge"/>
+<text x="325.1" y="296.0" class="badge-text">TW</text>
+<rect x="64.0" y="324.0" width="96.4" height="40" rx="8" class="badge"/>
+<text x="112.2" y="348.0" class="badge-text">BS</text>
+<text x="64.0" y="394.0" class="section-label">CORE STACK</text>
+<text x="64.0" y="416.0" class="list-text">HTML5</text>
+<text x="64.0" y="435.0" class="list-text">CSS3</text>
+<text x="64.0" y="454.0" class="list-text">JavaScript</text>
+<text x="64.0" y="473.0" class="list-text">TypeScript</text>
+<text x="218.7" y="416.0" class="list-text">React</text>
+<text x="218.7" y="435.0" class="list-text">Tailwind CSS</text>
+<text x="218.7" y="454.0" class="list-text">Bootstrap</text>
+<line x1="64.0" y1="522.0" x2="373.3" y2="522.0" stroke="#1a3d2c" stroke-width="1"/>
+<text x="64.0" y="540.0" class="status-label">BUILD STATUS</text>
+<text x="64.0" y="562.0" class="status-text">COMPONENTS ONLINE</text>
+<rect x="64.0" y="576.0" width="309.3" height="4" rx="2" fill="#1a3d2c"/>
+<rect x="64.0" y="576.0" width="290.8" height="4" rx="2" fill="#22ff88"/>
+<circle cx="354.8" cy="578.0" r="4" fill="#22ff88"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
+<rect x="421.3" y="92" width="357.3" height="500" rx="10" class="panel-border"/>
+<rect x="421.3" y="92" width="357.3" height="3" fill="#22ff88" opacity="0.85"/>
+<text x="445.3" y="126" class="num">02 / BACKEND</text>
+<text x="445.3" y="156" class="title">BACKEND</text>
+<text x="445.3" y="176" class="subtitle">APIs . Services . Logic</text>
+<line x1="445.3" y1="192" x2="754.7" y2="192" stroke="#1a3d2c" stroke-width="1"/>
+<rect x="445.3" y="220.0" width="96.4" height="40" rx="8" class="badge"/>
+<text x="493.6" y="244.0" class="badge-text">JAVA</text>
+<rect x="551.8" y="220.0" width="96.4" height="40" rx="8" class="badge"/>
+<text x="600.0" y="244.0" class="badge-text">SPR</text>
+<rect x="658.2" y="220.0" width="96.4" height="40" rx="8" class="badge"/>
+<text x="706.4" y="244.0" class="badge-text">NODE</text>
+<rect x="445.3" y="272.0" width="96.4" height="40" rx="8" class="badge"/>
+<text x="493.6" y="296.0" class="badge-text">EXP</text>
+<rect x="551.8" y="272.0" width="96.4" height="40" rx="8" class="badge"/>
+<text x="600.0" y="296.0" class="badge-text">NEST</text>
+<rect x="658.2" y="272.0" width="96.4" height="40" rx="8" class="badge"/>
+<text x="706.4" y="296.0" class="badge-text">PY</text>
+<rect x="445.3" y="324.0" width="96.4" height="40" rx="8" class="badge"/>
+<text x="493.6" y="348.0" class="badge-text">PHP</text>
+<text x="445.3" y="394.0" class="section-label">SERVICE LAYER</text>
+<text x="445.3" y="416.0" class="list-text">Java</text>
+<text x="445.3" y="435.0" class="list-text">Spring Boot</text>
+<text x="445.3" y="454.0" class="list-text">Node.js</text>
+<text x="445.3" y="473.0" class="list-text">Express.js</text>
+<text x="600.0" y="416.0" class="list-text">NestJS</text>
+<text x="600.0" y="435.0" class="list-text">Python</text>
+<text x="600.0" y="454.0" class="list-text">PHP</text>
+<line x1="445.3" y1="522.0" x2="754.7" y2="522.0" stroke="#1a3d2c" stroke-width="1"/>
+<text x="445.3" y="540.0" class="status-label">REQUEST FLOW</text>
+<text x="445.3" y="562.0" class="status-text">SERVICES SYNCHRONIZED</text>
+<rect x="445.3" y="576.0" width="309.3" height="4" rx="2" fill="#1a3d2c"/>
+<rect x="445.3" y="576.0" width="290.8" height="4" rx="2" fill="#22ff88"/>
+<circle cx="736.1" cy="578.0" r="4" fill="#22ff88"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
+<rect x="802.7" y="92" width="357.3" height="500" rx="10" class="panel-border"/>
+<rect x="802.7" y="92" width="357.3" height="3" fill="#22ff88" opacity="0.85"/>
+<text x="826.7" y="126" class="num">03 / DATABASES &amp; TOOLS</text>
+<text x="826.7" y="156" class="title">DATABASES &amp; TOOLS</text>
+<text x="826.7" y="176" class="subtitle">Persistence . Workflow . DevOps</text>
+<line x1="826.7" y1="192" x2="1136.0" y2="192" stroke="#1a3d2c" stroke-width="1"/>
+<rect x="826.7" y="220.0" width="53.9" height="40" rx="8" class="badge"/>
+<text x="853.6" y="244.0" class="badge-text">MONGO</text>
+<rect x="890.5" y="220.0" width="53.9" height="40" rx="8" class="badge"/>
+<text x="917.5" y="244.0" class="badge-text">MYSQL</text>
+<rect x="954.4" y="220.0" width="53.9" height="40" rx="8" class="badge"/>
+<text x="981.3" y="244.0" class="badge-text">PG</text>
+<rect x="1018.3" y="220.0" width="53.9" height="40" rx="8" class="badge"/>
+<text x="1045.2" y="244.0" class="badge-text">REDIS</text>
+<rect x="1082.1" y="220.0" width="53.9" height="40" rx="8" class="badge"/>
+<text x="1109.1" y="244.0" class="badge-text">POST</text>
+<rect x="826.7" y="272.0" width="53.9" height="40" rx="8" class="badge"/>
+<text x="853.6" y="296.0" class="badge-text">GIT</text>
+<rect x="890.5" y="272.0" width="53.9" height="40" rx="8" class="badge"/>
+<text x="917.5" y="296.0" class="badge-text">GH</text>
+<rect x="954.4" y="272.0" width="53.9" height="40" rx="8" class="badge"/>
+<text x="981.3" y="296.0" class="badge-text">DOCK</text>
+<rect x="1018.3" y="272.0" width="53.9" height="40" rx="8" class="badge"/>
+<text x="1045.2" y="296.0" class="badge-text">LINUX</text>
+<rect x="1082.1" y="272.0" width="53.9" height="40" rx="8" class="badge"/>
+<text x="1109.1" y="296.0" class="badge-text">AWS</text>
+<rect x="826.7" y="324.0" width="53.9" height="40" rx="8" class="badge"/>
+<text x="853.6" y="348.0" class="badge-text">VSC</text>
+<rect x="890.5" y="324.0" width="53.9" height="40" rx="8" class="badge"/>
+<text x="917.5" y="348.0" class="badge-text">FIG</text>
+<rect x="954.4" y="324.0" width="53.9" height="40" rx="8" class="badge"/>
+<text x="981.3" y="348.0" class="badge-text">CANVA</text>
+<text x="826.7" y="394.0" class="section-label">DEV TOOLCHAIN</text>
+<text x="826.7" y="416.0" class="list-text">MongoDB</text>
+<text x="826.7" y="435.0" class="list-text">MySQL</text>
+<text x="826.7" y="454.0" class="list-text">PostgreSQL</text>
+<text x="826.7" y="473.0" class="list-text">Redis</text>
+<text x="826.7" y="492.0" class="list-text">Postman</text>
+<text x="929.8" y="416.0" class="list-text">Git</text>
+<text x="929.8" y="435.0" class="list-text">GitHub</text>
+<text x="929.8" y="454.0" class="list-text">Docker</text>
+<text x="929.8" y="473.0" class="list-text">Linux</text>
+<text x="929.8" y="492.0" class="list-text">AWS</text>
+<text x="1032.9" y="416.0" class="list-text">VS Code</text>
+<text x="1032.9" y="435.0" class="list-text">Figma</text>
+<text x="1032.9" y="454.0" class="list-text">Canva</text>
+<line x1="826.7" y1="522.0" x2="1136.0" y2="522.0" stroke="#1a3d2c" stroke-width="1"/>
+<text x="826.7" y="540.0" class="status-label">SYSTEM STATUS</text>
+<text x="826.7" y="562.0" class="status-text">SYSTEMS OPERATIONAL</text>
+<rect x="826.7" y="576.0" width="309.3" height="4" rx="2" fill="#1a3d2c"/>
+<rect x="826.7" y="576.0" width="290.8" height="4" rx="2" fill="#22ff88"/>
+<circle cx="1117.4" cy="578.0" r="4" fill="#22ff88"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
+<line x1="40" y1="608" x2="1160" y2="608" stroke="#1a3d2c" stroke-width="1"/>
+<text x="600.0" y="632" class="footer-text">• SYSTEMS CONNECTED // 3 DOMAINS // CONTINUOUS DELIVERY // BUILD · SHIP · SCALE •</text>
+</svg>
