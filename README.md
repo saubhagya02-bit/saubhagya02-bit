@@ -44,13 +44,13 @@
 
 ---
 
-## 🛡️ Cybersecurity Learning
-
 <p align="center">
-  <img src="assets/cybersecurity-learning.png"
-       alt="Neon green cybersecurity learning dashboard"
-       width="100%" />
+  <img src="https://raw.githubusercontent.com/saubhagya02-bit/cybersecurity-learning-portfolio/main/assets/cybersecurity-learning.png"
+       alt="Cybersecurity Learning Dashboard"
+       width="100%">
 </p>
+
+---
 
 ## 📊 GitHub Stats
 
